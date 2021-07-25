@@ -1,4 +1,3 @@
-# e_commerce_user
 
 A new Flutter project.
 
